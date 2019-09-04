@@ -29,10 +29,10 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <h1 className='title'>Movie API Thing</h1>
+        <h1 className='title'>TV Show API Thing That Works</h1>
         <hr></hr>
         <div class='random-show-container'>
-          <h3 className='title'>Random TV-Show</h3>
+          <h3 className='title'>Random TV-Show!</h3>
           <div className='card-container card top-show'>
             <img
               className='card-image top-show-image'
